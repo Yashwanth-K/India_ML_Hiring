@@ -1,0 +1,7 @@
+Install the following libraries with python 3.7 and execute the code.
+
+numpy                              1.16.4
+scikit-learn                       0.21.2
+sklearn-pandas                     1.8.0  
+matplotlib                         3.1.0 
+pandas                             0.24.2   
